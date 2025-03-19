@@ -28,7 +28,7 @@
 
 A video demonstration showcasing the real-time finger counting process can be found here:
 
-https://github.com/user-attachments/assets/d2686c22-90cd-4db5-9295-340bdee1b18f
+https://github.com/user-attachments/assets/c6f9b4db-7194-4d3a-855f-8ef9ce699d2f
 
 ## **Motivation and Purpose**
 
